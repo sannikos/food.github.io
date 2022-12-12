@@ -43,6 +43,11 @@ nav ul li a {
 
 }
 
+.navbar ul li a:hover{
+    background-color: transparent;
+    color: rgba(199, 197, 192, 0.762);
+}
+
 #recipe-container1{
     display: flex;
     justify-content: center;
@@ -134,3 +139,7 @@ nav ul li a {
 
  }
 
+
+ p{
+    margin-left: 60px;
+ }
